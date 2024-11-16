@@ -1,6 +1,6 @@
 # Arthur Moreira Ramos
 
-### Front-End Developer / **Java** & **TypeScript** / **React** / **Next.js** / English
+### Front-End Developer / **JavaScript** & **TypeScript** / **React** / **Next.js** / English
 
 🚀 I'm working as a Front-End Developer, coding in TypeScript with Next.js and React. Since I started college, my dream has always been to become a Front-End Developer. I study every day, focusing on JavaScript, HTML, and CSS. I’ve also created several projects using these languages.
 
