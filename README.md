@@ -8,8 +8,6 @@
 
 🧠 At my current company, I’ve already completed over 9 projects, including 3 dashboards with dynamic and optimized charts, more than 7 systems with login authentication, and 2 fully responsive mobile projects. I also completed 3 international jobs on Upwork, delivering complete and functional websites.
 
-💻 Meanwhile, I maintain personal projects on my GitHub, constantly improving my skills in React.js, Next.js, Node.js, and TypeScript, exploring both the front end and light back-end integrations.
-
 💬 In my day-to-day work, I stand out for my organization, clear communication with QAs and POs, and fast learning, qualities that help me deliver consistent results either in teams or independently. I also have good communication skills for teaching, helping beginner front-end developers.
 
 🌎 I studied English for 2 years at Cultura Inglesa and continue practicing and improving the language on my own. I also study Spanish independently, aiming to expand my communication in different contexts and international teams.
