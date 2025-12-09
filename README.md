@@ -2,9 +2,17 @@
 
 ### Front-End Developer / **Java** & **TypeScript** / **React** / **Next.js** / English
 
-🚀 I'm working as a Front-End Developer, coding in TypeScript with Next.js and React. Since I started college, my dream has always been to become a Front-End Developer. I study every day, focusing on JavaScript, HTML, and CSS. I’ve also created several projects using these languages.
+🚀 I’m a Junior Front-end Developer with 1 year of hands-on experience in React, Next.js, and TypeScript, working from Figma design all the way to final code delivery. I’m currently in the 5th semester of the Systems Analysis and Development program at FATEC, fully focused on modern and scalable Web Development.
 
-🌍 About my English, I'm attending English lectures at Cultura Inglesa, and I also study a lot on my own.
+💡 I have solid experience in consuming and integrating REST APIs, creating pages, dashboards, and optimized, responsive interfaces, applying best practices with React Hooks, Styled-Components, and clean architecture.
+
+🧠 At my current company, I’ve already completed over 9 projects, including 3 dashboards with dynamic and optimized charts, more than 7 systems with login authentication, and 2 fully responsive mobile projects. I also completed 3 international jobs on Upwork, delivering complete and functional websites.
+
+💻 Meanwhile, I maintain personal projects on my GitHub, constantly improving my skills in React.js, Next.js, Node.js, and TypeScript, exploring both the front end and light back-end integrations.
+
+💬 In my day-to-day work, I stand out for my organization, clear communication with QAs and POs, and fast learning, qualities that help me deliver consistent results either in teams or independently. I also have good communication skills for teaching, helping beginner front-end developers.
+
+🌎 I studied English for 2 years at Cultura Inglesa and continue practicing and improving the language on my own. I also study Spanish independently, aiming to expand my communication in different contexts and international teams.
 
 ## 🧰 Main Languages & Tools
 
