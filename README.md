@@ -1,6 +1,6 @@
 # Arthur Moreira Ramos
 
-### Front-End Developer / **Java** & **TypeScript** / **React** / **Next.js** / English
+### Front-End Junior Developer / **TypeScript** / **React** / **Next.js** / **Node.js** / English
 
 🚀 I’m a Junior Front-end Developer with 1 year of hands-on experience in React, Next.js, and TypeScript, working from Figma design all the way to final code delivery. I’m currently in the 5th semester of the Systems Analysis and Development program at FATEC, fully focused on modern and scalable Web Development.
 
