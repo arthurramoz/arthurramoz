@@ -62,12 +62,3 @@
 <br/>
 
 ### <img src="https://media.giphy.com/media/QssGEmpjCsDHW/giphy.gif" width="30"> **Github Stats**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=midnight-purple&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&hide_border=true" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramoz&layout=compact&theme=midnight-purple&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&hide_border=true" />
-
-</div>
-
