@@ -14,13 +14,13 @@
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedln&logoColor=00BFFF" alt="LinkedIn Badge"/>
   </a>
   <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=00BFFF" alt="Portfolio Badge"/>
   </a>
-  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+  <a href="mailto:arthurmoreiraramos550sp@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email Badge"/>
   </a>
 
@@ -50,13 +50,13 @@
 
 <div align="center">
   <br/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 </div>
 
 <br/>
