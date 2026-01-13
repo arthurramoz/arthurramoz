@@ -14,15 +14,19 @@
 
   <br/>
 
+ <div align="center">
   <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedln&logoColor=00BFFF" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn Badge"/>
   </a>
+  &nbsp;
   <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=00BFFF" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="Portfolio Badge"/>
   </a>
+  &nbsp;
   <a href="mailto:arthurmoreiraramos550sp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email Badge"/>
   </a>
+</div>
 
 </div>
 
