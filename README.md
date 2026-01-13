@@ -58,7 +58,3 @@
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
 </div>
-
-<br/>
-
-### <img src="https://media.giphy.com/media/QssGEmpjCsDHW/giphy.gif" width="30"> **Github Stats**
