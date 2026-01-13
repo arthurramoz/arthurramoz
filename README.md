@@ -37,7 +37,8 @@
 🚀 **I’m a Front-end Developer** with **1+ year** of hands-on experience, translating Figma designs into pixel-perfect code. Currently pursuing my degree in **Systems Analysis and Development** at FATEC (5th Semester).
 
 * 💻 **Current Focus:** Building scalable applications using **Next.js 14**, **TypeScript**, and **Clean Architecture**.
-* 💼 **Track Record:** * **9+ Corporate Projects** (Dashboards, Auth Systems).
+* 💼 **Track Record:** 
+    * **9+ Corporate Projects** (Dashboards, Auth Systems).
     * **3+ International Contracts** on Upwork.
     * **2 Mobile Projects** fully responsive.
 * 🧠 **Soft Skills:** I pride myself on clear communication with QAs/POs and mentoring junior devs.
@@ -70,8 +71,3 @@
 
 </div>
 
-<br/>
-<hr/>
-<div align="center">
-  <p style="color: #888;">Built with 💙 by Arthur Moreira Ramos</p>
-</div>
