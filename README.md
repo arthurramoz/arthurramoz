@@ -1,33 +1,77 @@
-# Arthur Moreira Ramos
+<div align="center">
+  
+  <h1 align="center">Arthur Moreira Ramos</h1>
+  
+  <h3 align="center">
+    Front-End Developer 
+    <span style="color: #00BFFF;">|</span> 
+    Next.js Specialist
+  </h3>
 
-### Front-End Junior Developer / **TypeScript** / **React** / **Next.js** / **Node.js** / English
+  <p align="center">
+    Creating scalable, high-performance web experiences with a focus on modern UI/UX.
+  </p>
 
-🚀 I’m a Junior Front-end Developer with 1 year of hands-on experience in React, Next.js, and TypeScript, working from Figma design all the way to final code delivery. I’m currently in the 5th semester of the Systems Analysis and Development program at FATEC, fully focused on modern and scalable Web Development.
+  <br/>
 
-💡 I have solid experience in consuming and integrating REST APIs, creating pages, dashboards, and optimized, responsive interfaces, applying best practices with React Hooks, Styled-Components, and clean architecture.
+  <a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=framer&logoColor=00BFFF" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:SEU_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email Badge"/>
+  </a>
 
-🧠 At my current company, I’ve already completed over 9 projects, including 3 dashboards with dynamic and optimized charts, more than 7 systems with login authentication, and 2 fully responsive mobile projects. I also completed 3 international jobs on Upwork, delivering complete and functional websites.
+</div>
 
-💬 In my day-to-day work, I stand out for my organization, clear communication with QAs and POs, and fast learning, qualities that help me deliver consistent results either in teams or independently. I also have good communication skills for teaching, helping beginner front-end developers.
+<br/>
+<hr/>
+<br/>
 
-🌎 I studied English for 2 years at Cultura Inglesa and continue practicing and improving the language on my own. I also study Spanish independently, aiming to expand my communication in different contexts and international teams.
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **About Me**
 
-## 🧰 Main Languages & Tools
+> *"Code is like humor. When you have to explain it, it’s bad."*
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" />
-</p>
+🚀 **I’m a Front-end Developer** with **1+ year** of hands-on experience, translating Figma designs into pixel-perfect code. Currently pursuing my degree in **Systems Analysis and Development** at FATEC (5th Semester).
 
-## Check them out!
+* 💻 **Current Focus:** Building scalable applications using **Next.js 14**, **TypeScript**, and **Clean Architecture**.
+* 💼 **Track Record:** * **9+ Corporate Projects** (Dashboards, Auth Systems).
+    * **3+ International Contracts** on Upwork.
+    * **2 Mobile Projects** fully responsive.
+* 🧠 **Soft Skills:** I pride myself on clear communication with QAs/POs and mentoring junior devs.
+* 🌍 **Languages:** English (Advanced/B2-C1) & Spanish (Studying).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://arthurramoz.github.io/Portfolio-1/)
+<br/>
+
+### <img src="https://media.giphy.com/media/iFxB2C46SZEVfGC4yR/giphy.gif" width="30"> **Tech Stack**
+
+<div align="center">
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,js&theme=dark" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,figma&theme=dark" />
+  <br/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
+</div>
+
+<br/>
+
+### <img src="https://media.giphy.com/media/QssGEmpjCsDHW/giphy.gif" width="30"> **Github Stats**
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_DO_GITHUB&show_icons=true&theme=midnight-purple&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=ffffff&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_DO_GITHUB&layout=compact&theme=midnight-purple&bg_color=0D1117&title_color=00BFFF&text_color=ffffff&hide_border=true" />
+
+</div>
+
+<br/>
+<hr/>
+<div align="center">
+  <p style="color: #888;">Built with 💙 by Arthur Moreira Ramos</p>
+</div>
