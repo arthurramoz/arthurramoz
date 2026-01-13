@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,js&theme=dark" />
   <br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,styledcomponents,tailwind,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" />
   <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" />
