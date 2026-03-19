@@ -16,32 +16,32 @@
 <hr/>
 <br/>
 
-## ⚡ Executive Summary
+## <img src="https://api.iconify.design/lucide/zap.svg?color=%2300BFFF" width="24" align="absmiddle" /> Executive Summary
 
 > Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
 
-* 🎯 **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
-* 🧠 **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
-* 🌍 **Languages:** English (Professional Working Proficiency - B2/C1).
+* <img src="https://api.iconify.design/lucide/target.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
+* <img src="https://api.iconify.design/lucide/brain.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
+* <img src="https://api.iconify.design/lucide/globe.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Languages:** English (Professional Working Proficiency - B2/C1).
 
 <br/>
 <hr/>
 <br/>
 
-## 🛠️ Tech Stack & Tooling
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300BFFF" width="24" align="absmiddle" /> Tech Stack & Tooling
 
 <div align="center">
   <table width="100%">
     <tr>
-      <td align="center"><b>💻 Core</b></td>
-      <td align="center"><b>🎨 Styling & UI</b></td>
-      <td align="center"><b>🗄️ Backend & DB</b></td>
-      <td align="center"><b>⚙️ Tools</b></td>
+      <td align="center"><b><img src="https://api.iconify.design/lucide/terminal.svg?color=%2300BFFF" width="18" align="absmiddle" /> Core</b></td>
+      <td align="center"><b><img src="https://api.iconify.design/lucide/palette.svg?color=%2300BFFF" width="18" align="absmiddle" /> Styling & UI</b></td>
+      <td align="center"><b><img src="https://api.iconify.design/lucide/database.svg?color=%2300BFFF" width="18" align="absmiddle" /> Backend & DB</b></td>
+      <td align="center"><b><img src="https://api.iconify.design/lucide/settings.svg?color=%2300BFFF" width="18" align="absmiddle" /> Tools</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=tailwind,css,html&theme=dark" /></td>
-      <td align="center">  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase&theme=dark" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" /></td>
     </tr>
   </table>
@@ -51,21 +51,21 @@
 <hr/>
 <br/>
 
-## 🚀 Featured Engineering Projects
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300BFFF" width="24" align="absmiddle" /> Featured Engineering Projects
 
 ### 1. Enterprise Digital Marketplace <img src="https://img.shields.io/badge/Private_Project-FF4B4B?style=flat-square&logo=github&logoColor=white" alt="Private Project" align="center" />
 
 > **End-to-end ownership** of a comprehensive, full-stack e-commerce ecosystem for digital products (similar scope to Amazon Digital), serving as the sole engineer from **UI/UX design (Figma)** to final **architecture and integration**.
 
-* ⚙️ **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
-* ⚡ **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
-* 🔄 **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
+* <img src="https://api.iconify.design/lucide/cpu.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
+* <img src="https://api.iconify.design/lucide/zap.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
+* <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
 
 <br/>
 <hr/>
 <br/>
 
-## 📈 GitHub Analytics
+## <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300BFFF" width="24" align="absmiddle" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
