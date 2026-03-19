@@ -40,9 +40,9 @@
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind,css,html&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,html&theme=dark" /></td>
       <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" /></td>
     </tr>
   </table>
 </div>
