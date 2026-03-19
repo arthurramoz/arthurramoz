@@ -78,4 +78,6 @@
   <br/><br/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurramoz&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="Arthur's Contribution Graph" />
+
+  <img src="https://metrics.lecoq.io/arthurramoz?template=classic&base.header=0&base.repositories=0&config.timezone=America/Sao_Paulo" />
 </div>
