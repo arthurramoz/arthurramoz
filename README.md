@@ -7,7 +7,7 @@
 
   <div align="center">
     <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://project-eleven-lab.vercel.app/home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:arthurmoreiraramos550sp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </div>
 </div>
@@ -45,20 +45,13 @@ Front-end Developer transitioning to mid-level, specialized in **React ecosystem
 
 <br/>
 
-## 🚀 Featured Engineering Projects
-
-### 1. Lume - Full-Stack E-commerce Platform
-Architected and developed a modern e-commerce solution for children's literature. 
-* **Tech:** Next.js, React, TypeScript, Node.js, PostgreSQL.
-* **Focus:** Implementation of seamless shopping cart UX, secure checkout flow, and robust relational database modeling for inventory management.
-
-### 2. [Insert International Upwork Project Name]
-* **Tech:** [Tech Stack]
-* **Impact:** [E.g., Reduced load time by X%, Increased conversion rate by Y% through UX improvements].
+### 1. Enterprise Digital Marketplace (Private Project)
+**End-to-end ownership** of a comprehensive, full-stack e-commerce ecosystem for digital products (similar scope to Amazon Digital), serving as the sole engineer from **UI/UX design (Figma)** to final **architecture and integration**.
+* **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
+* **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
+* **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
 
 <br/>
-
-## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
