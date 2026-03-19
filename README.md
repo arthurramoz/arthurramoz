@@ -65,9 +65,17 @@
 <hr/>
 <br/>
 
-## <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300BFFF" width="24" align="absmiddle" /> GitHub Analytics
+## <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300BFFF" width="24" align="absmiddle" /> GitHub Analytics & Productivity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthurramoz&theme=tokyonight&hide_border=true&background=0D1117&ring=00BFFF&fire=00BFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurramoz&bg_color=0D1117&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true&title_color=FFFFFF" width="100%" alt="Activity Graph" />
 </div>
