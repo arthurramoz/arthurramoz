@@ -21,7 +21,7 @@
 > Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
 
 * <img src="https://api.iconify.design/lucide/target.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
-* <img src="https://api.iconify.design/lucide/brain.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
+* <img src="https://api.iconify.design/lucide/brain.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Core Competencies:** Component-Driven Development, RESTful APIs, Global State Management, Payment Gateways, and **AI-Assisted Engineering (Google Antigravity / Agentic Workflows)**.
 * <img src="https://api.iconify.design/lucide/globe.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Languages:** English (Professional Working Proficiency - B2/C1).
 
 <br/>
