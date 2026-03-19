@@ -74,4 +74,8 @@
   <br/><br/>
 
   <img src="https://ghchart.rshah.org/0044cc/arthurramoz" alt="Arthur's Contribution Graph" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurramoz&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="Arthur's Contribution Graph" />
 </div>
