@@ -31,7 +31,7 @@
 ## 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <td align="center"><b>💻 Core</b></td>
       <td align="center"><b>🎨 Styling & UI</b></td>
