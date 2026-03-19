@@ -72,8 +72,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
   
   <br/><br/>
-  
-  <a href="https://github.com/arthurramoz" target="_blank">
-    <img src="https://ghchart.rshah.org/00BFFF/arthurramoz" alt="Arthur's Contribution Graph" />
-  </a>
+
+  <img src="https://ghchart.rshah.org/0044cc/arthurramoz" alt="Arthur's Contribution Graph" />
 </div>
