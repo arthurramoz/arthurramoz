@@ -13,15 +13,19 @@
 </div>
 
 <br/>
+<hr/>
+<br/>
 
 ## ⚡ Executive Summary
 
-Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
+> Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
 
-* **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
-* **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
-* **Languages:** English (Professional Working Proficiency - B2/C1).
+* 🎯 **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
+* 🧠 **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
+* 🌍 **Languages:** English (Professional Working Proficiency - B2/C1).
 
+<br/>
+<hr/>
 <br/>
 
 ## 🛠️ Tech Stack & Tooling
@@ -29,10 +33,10 @@ Front-end Developer transitioning to mid-level, specialized in **React ecosystem
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Core</b></td>
-      <td align="center"><b>Styling & UI</b></td>
-      <td align="center"><b>Backend & DB (Familiarity)</b></td>
-      <td align="center"><b>Tools</b></td>
+      <td align="center"><b>💻 Core</b></td>
+      <td align="center"><b>🎨 Styling & UI</b></td>
+      <td align="center"><b>🗄️ Backend & DB</b></td>
+      <td align="center"><b>⚙️ Tools</b></td>
     </tr>
     <tr>
       <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" /></td>
@@ -44,14 +48,24 @@ Front-end Developer transitioning to mid-level, specialized in **React ecosystem
 </div>
 
 <br/>
+<hr/>
+<br/>
 
-### 1. Enterprise Digital Marketplace (Private Project)
-**End-to-end ownership** of a comprehensive, full-stack e-commerce ecosystem for digital products (similar scope to Amazon Digital), serving as the sole engineer from **UI/UX design (Figma)** to final **architecture and integration**.
-* **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
-* **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
-* **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
+## 🚀 Featured Engineering Projects
+
+### 1. Enterprise Digital Marketplace <img src="https://img.shields.io/badge/Private_Project-FF4B4B?style=flat-square&logo=github&logoColor=white" alt="Private Project" align="center" />
+
+> **End-to-end ownership** of a comprehensive, full-stack e-commerce ecosystem for digital products (similar scope to Amazon Digital), serving as the sole engineer from **UI/UX design (Figma)** to final **architecture and integration**.
+
+* ⚙️ **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
+* ⚡ **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
+* 🔄 **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
 
 <br/>
+<hr/>
+<br/>
+
+## 📈 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
