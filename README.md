@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=0033cc;0066ff;0099ff;00bfff&center=true&vCenter=true&width=600&lines=Arthur+Moreira+Ramos;Front-End+Engineer;Next.js+%7C+TypeScript;Building+Scalable+UIs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00ff00;0066ff;00ff00;00bfff&center=true&vCenter=true&width=600&lines=Arthur+Moreira+Ramos;Front-End+Engineer;Next.js+%7C+TypeScript;Building+Scalable+UIs" alt="Typing SVG" />
 
   <p align="center">
     <strong>Engineering high-performance, pixel-perfect web applications for a global scale.</strong>
