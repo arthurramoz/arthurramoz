@@ -1,4 +1,21 @@
 <div align="center">
+  <svg width="600" height="80" viewBox="0 0 600 80">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00ff00; stop-opacity:1" />
+        <stop offset="50%" style="stop-color:#00bfff; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0066ff; stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+      font-family="Poppins, sans-serif" font-size="28" font-weight="700"
+      fill="url(#grad)">
+      Arthur Moreira Ramos
+    </text>
+  </svg>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00ff00;0066ff;00ff00;00bfff&center=true&vCenter=true&width=600&lines=Arthur+Moreira+Ramos;Front-End+Engineer;Next.js+%7C+TypeScript;Building+Scalable+UIs" alt="Typing SVG" />
 
   <p align="center">
