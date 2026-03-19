@@ -1,64 +1,66 @@
 <div align="center">
-  
-  <h1 align="center">Arthur Moreira Ramos</h1>
-  
-  <h3 align="center">
-    Front-End Developer 
-    <span style="color: #00BFFF;">|</span> 
-    Next.js Specialist
-  </h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Arthur+Moreira+Ramos;Front-End+Engineer;Next.js+%7C+TypeScript;Building+Scalable+UIs" alt="Typing SVG" />
 
   <p align="center">
-    Creating scalable, high-performance web experiences with a focus on modern UI/UX.
+    <strong>Engineering high-performance, pixel-perfect web applications for a global scale.</strong>
   </p>
 
-  <br/>
-
- <div align="center">
-  <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00BFFF" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=00BFFF" alt="Portfolio Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:arthurmoreiraramos550sp@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=00BFFF" alt="Email Badge"/>
-  </a>
-</div>
-
+  <div align="center">
+    <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://arthurramoz.github.io/Portfolio-1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="mailto:arthurmoreiraramos550sp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </div>
 </div>
 
 <br/>
-<hr/>
-<br/>
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  **About Me**
+## ⚡ Executive Summary
 
-> *"Code is like humor. When you have to explain it, it’s bad."*
+Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
 
-🚀 **I’m a Front-end Developer** with **1+ year** of hands-on experience, translating Figma designs into pixel-perfect code. Currently pursuing my degree in **Systems Analysis and Development** at FATEC (5th Semester).
-
-* 💻 **Current Focus:** Building scalable applications using **Next.js 14**, **TypeScript**, and **Clean Architecture**.
-* 💼 **Track Record:** 
-    * **9+ Corporate Projects** (Dashboards, Auth Systems).
-    * **3+ International Contracts** on Upwork.
-    * **2 Mobile Projects** fully responsive.
-* 🧠 **Soft Skills:** I pride myself on clear communication with QAs/POs and mentoring junior devs.
-* 🌍 **Languages:** English (Advanced/B2-C1) & Spanish (Studying).
+* **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
+* **Core Competencies:** Component-Driven Development, State Management, API Integration, Web Performance Optimization.
+* **Languages:** English (Professional Working Proficiency - B2/C1).
 
 <br/>
 
-### <img src="https://media.giphy.com/media/iFxB2C46SZEVfGC4yR/giphy.gif" width="30"> **Tech Stack**
+## 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark" />
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,figma&theme=dark" />
-  <br/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" />
+  <table>
+    <tr>
+      <td align="center"><b>Core</b></td>
+      <td align="center"><b>Styling & UI</b></td>
+      <td align="center"><b>Backend & DB (Familiarity)</b></td>
+      <td align="center"><b>Tools</b></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind,css,html&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,postgres&theme=dark" /></td>
+      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman&theme=dark" /></td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+## 🚀 Featured Engineering Projects
+
+### 1. Lume - Full-Stack E-commerce Platform
+Architected and developed a modern e-commerce solution for children's literature. 
+* **Tech:** Next.js, React, TypeScript, Node.js, PostgreSQL.
+* **Focus:** Implementation of seamless shopping cart UX, secure checkout flow, and robust relational database modeling for inventory management.
+
+### 2. [Insert International Upwork Project Name]
+* **Tech:** [Tech Stack]
+* **Impact:** [E.g., Reduced load time by X%, Increased conversion rate by Y% through UX improvements].
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurramoz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurramoz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="192px" alt="Top Languages" />
 </div>
