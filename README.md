@@ -12,6 +12,12 @@ I build the screens people use to run a business. At **CodoTech**, that can mean
 | :--- | :--- | :--- |
 | **9+** | **3+** | **B2 · Cultura Inglesa** |
 
+## Languages & tools
+
+<img src="./assets/react.svg" width="40" height="40" alt="React" title="React"> &nbsp; <img src="./assets/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js"> &nbsp; <img src="./assets/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"> &nbsp; <img src="./assets/figma.svg" width="40" height="40" alt="Figma" title="Figma"> &nbsp; <img src="./assets/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js"> &nbsp; <img src="./assets/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"> &nbsp; <img src="./assets/firebase.svg" width="40" height="40" alt="Firebase" title="Firebase"> &nbsp; <img src="./assets/git.svg" width="40" height="40" alt="Git" title="Git">
+
+React · Next.js · TypeScript · Figma · Node.js · PostgreSQL · Firebase · Git
+
 ## From the workbench
 
 **Certeza que Tem · Web Expert**
@@ -35,6 +41,12 @@ I helped establish the engineering operation, from client discovery and estimate
 **Mestres da Web · October 2024 – April 2026**
 
 I joined as a front-end intern, moved into a junior role and took on full-stack delivery. I standardized the team's Next.js starter, paired with interns and shipped features across customer, seller and admin interfaces. By the end of my time there, I was also handling PostgreSQL migrations, Linux deployments and app store releases.
+
+## GitHub activity
+
+![Public repositories by primary language and creation year](./assets/activity.svg)
+
+Both charts use the same weekly snapshot of my public, non-fork repositories. [Explore the repositories](https://github.com/arthurramoz?tab=repositories).
 
 <details>
 <summary><strong>Inside my toolkit</strong></summary>
