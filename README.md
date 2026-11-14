@@ -1,8 +1,11 @@
-[![Arthur Ramos · Software engineer for web and mobile](assets/contours.svg)](https://www.arthur-moreira-ramos.com.br/home)
-
-<p align="center"><a href="https://www.arthur-moreira-ramos.com.br/home">Portfolio</a>　·　<a href="https://www.linkedin.com/in/arthur-moreira-ramos">LinkedIn</a>　·　<a href="mailto:arthurmoreiraramos550sp@gmail.com">Email</a></p>
-
-<p align="center"><img src="assets/kpi-0.svg" width="185" alt="9+ Corporate projects"> <img src="assets/kpi-1.svg" width="185" alt="3+ International contracts"> <img src="assets/kpi-2.svg" width="185" alt="2 Mobile apps"> <img src="assets/kpi-3.svg" width="185" alt="B2 Working English"></p>
+<table>
+<tr><td align="center">
+<a href="https://www.arthur-moreira-ramos.com.br/home"><img src="assets/contours.svg" width="960" alt="Arthur Ramos · Software engineer for web and mobile"></a>
+<br>
+<p><a href="https://www.arthur-moreira-ramos.com.br/home">Portfolio ↗</a>　·　<a href="https://www.linkedin.com/in/arthur-moreira-ramos">LinkedIn ↗</a>　·　<a href="mailto:arthurmoreiraramos550sp@gmail.com">Email ↗</a></p>
+<p><img src="assets/kpi-0.svg" width="185" alt="9+ Corporate projects"> <img src="assets/kpi-1.svg" width="185" alt="3+ International contracts"> <img src="assets/kpi-2.svg" width="185" alt="2 Mobile apps"> <img src="assets/kpi-3.svg" width="185" alt="B2 Working English"></p>
+</td></tr>
+</table>
 
 ## Selected work
 
