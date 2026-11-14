@@ -1,4 +1,4 @@
-[![Arthur Ramos · Software engineer · Portfolio, LinkedIn and email available on my portfolio · 9+ corporate projects · 3+ international contracts · 2 mobile apps · B2 English](assets/contours.svg)](https://www.arthur-moreira-ramos.com.br/home)
+[![Arthur Ramos · Software engineer · Portfolio, LinkedIn and email available on my portfolio · 9+ corporate projects · 3+ international contracts · 2 mobile apps · B2 English](assets/profile-hero.svg)](https://www.arthur-moreira-ramos.com.br/home)
 
 ## Selected work
 
