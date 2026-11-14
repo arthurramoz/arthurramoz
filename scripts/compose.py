@@ -17,7 +17,7 @@ for old, new in [
     s = s.replace(old, new)
 # Keep white brand marks legible on light chips.
 s = s.replace('fill="#ffffff"', 'fill="#ffffff"', 1)
-s = s.replace('fill="white"', 'fill="#263447"')
+s = s.replace('fill="white"', 'fill="#263447"').replace('color="#ffffff"', 'color="#263447"')
 s = s.replace('fill="#ffffff" font', 'fill="#263447" font')
 s = s.replace('<rect width="100%" height="100%" rx="9" fill="#eef4f7"/>',
               '<rect width="100%" height="100%" rx="9" fill="#e4ebf1"/>')
@@ -31,10 +31,10 @@ projects = [("cqt", "Certeza que Tem"), ("qb", "Queimando o Bacon"),
 for i, (key, title) in enumerate(projects):
     x = 44 + (i % 2) * 450
     y = 1035 + (i // 2) * 295
-    data = base64.b64encode((assets / "projects" / f"{key}.webp").read_bytes()).decode()
+    data = base64.b64encode((assets / "projects" / f"{key}.png").read_bytes()).decode()
     parts.extend([
         f'<defs><clipPath id="project-{key}"><rect x="{x}" y="{y}" width="422" height="237" rx="18"/></clipPath></defs>',
-        f'<image x="{x}" y="{y}" width="422" height="237" preserveAspectRatio="xMidYMid slice" clip-path="url(#project-{key})" href="data:image/webp;base64,{data}"/>',
+        f'<image x="{x}" y="{y}" width="422" height="237" preserveAspectRatio="xMidYMid slice" clip-path="url(#project-{key})" href="data:image/png;base64,{data}"/>',
         f'<text x="{x}" y="{y+267}" font-size="21" font-weight="600" fill="#202734">{escape(title)}</text>',
     ])
 parts.append('<text x="44" y="1980" font-size="27" font-weight="650" fill="#202734">GitHub</text></g>')
