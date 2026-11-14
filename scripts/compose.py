@@ -7,7 +7,7 @@ from xml.sax.saxutils import escape
 root = Path(__file__).resolve().parents[1]
 assets = root / "assets"
 s = (assets / "profile-showcase-v2.svg").read_text(encoding="utf8")
-s = s.replace('font-size="80"', 'font-size="54"')
+s = s.replace('font-size="80"', 'font-size="54"').replace('font-size="25"', 'font-size="22"')
 s = s.replace('viewBox="0 0 960 951"', 'viewBox="0 0 960 2260"')
 s = s.replace('width="960" height="951"', 'width="960" height="2260"')
 font = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
@@ -29,7 +29,7 @@ chart = (assets / "activity.svg").read_text(encoding="utf8")
 chart = chart.replace('<svg ', '<svg x="44" y="1530" width="872" height="230" class="chart" ', 1)
 chart = chart.replace('text{', '.chart text{').replace('.bar{', '.chart .bar{')
 parts.append(chart)
-(assets / "dashboard-stacks-last.svg").write_text(s[:-6] + "".join(parts) + "</svg>", encoding="utf8")
+(assets / "dashboard-refined.svg").write_text(s[:-6] + "".join(parts) + "</svg>", encoding="utf8")
 
 # Convert text to Montserrat outlines so the artwork renders identically on GitHub.
 import xml.etree.ElementTree as ET
@@ -37,7 +37,7 @@ from fontTools.ttLib import TTFont
 from fontTools.varLib.instancer import instantiateVariableFont
 from fontTools.pens.svgPathPen import SVGPathPen
 ns = "{http://www.w3.org/2000/svg}"
-tree = ET.fromstring((assets / "dashboard-stacks-last.svg").read_text(encoding="utf8"))
+tree = ET.fromstring((assets / "dashboard-refined.svg").read_text(encoding="utf8"))
 # Move the technology groups below projects and GitHub activity.
 stack_group = ET.Element(ns + "g", {"transform": "translate(0 1260)"})
 for child in list(tree):
@@ -63,6 +63,8 @@ def outline(parent, inherited=None):
         attrs.update(child.attrib)
         text_content = "".join(child.itertext())
         weight = 700 if text_content == "Arthur Ramos" else min(900, int(attrs.get("font-weight", "400")) + 250)
+        if text_content in ("Projects", "GitHub", "Frontend & design", "Backend & data", "Cloud & delivery"):
+            weight = 700
         if weight not in fonts:
             fonts[weight] = instantiateVariableFont(TTFont(assets / "Montserrat.ttf"), {"wght": weight})
         font = fonts[weight]
@@ -87,4 +89,4 @@ def outline(parent, inherited=None):
         parent.remove(child)
 outline(tree)
 ET.register_namespace("", "http://www.w3.org/2000/svg")
-ET.ElementTree(tree).write(assets / "dashboard-stacks-last.svg", encoding="utf-8")
+ET.ElementTree(tree).write(assets / "dashboard-refined.svg", encoding="utf-8")
