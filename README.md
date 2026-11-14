@@ -1,68 +1,37 @@
-![Arthur Ramos — software engineer for web and mobile, based in Mogi das Cruzes, Brazil.](./assets/contours.svg)
+[![Arthur Ramos · Software engineer for web and mobile](assets/contours.svg)](https://www.arthur-moreira-ramos.com.br/home)
 
-# Arthur Moreira Ramos
+<p align="center"><a href="https://www.arthur-moreira-ramos.com.br/home">Portfolio</a>　·　<a href="https://www.linkedin.com/in/arthur-moreira-ramos">LinkedIn</a>　·　<a href="mailto:arthurmoreiraramos550sp@gmail.com">Email</a></p>
 
-I build the screens people use to run a business. At **CodoTech**, that can mean sitting down with a client to understand how they price a delivery, then carrying that rule through the API, the checkout screen and the mobile app.
+<p align="center"><img src="assets/kpi-0.svg" width="185" alt="9+ Corporate projects"> <img src="assets/kpi-1.svg" width="185" alt="3+ International contracts"> <img src="assets/kpi-2.svg" width="185" alt="2 Mobile apps"> <img src="assets/kpi-3.svg" width="185" alt="B2 Working English"></p>
 
-[Portfolio & case studies](https://www.arthur-moreira-ramos.com.br/home) · [LinkedIn](https://www.linkedin.com/in/arthur-moreira-ramos) · [Email me](mailto:arthurmoreiraramos550sp@gmail.com)
+## Selected work
 
-## My work at a glance
+| [![Certeza que Tem](assets/projects/cqt.webp)](https://www.arthur-moreira-ramos.com.br/projetos) | [![Queimando o Bacon](assets/projects/qb.webp)](https://www.arthur-moreira-ramos.com.br/projetos) |
+| :--- | :--- |
+| [Certeza que Tem ↗](https://www.arthur-moreira-ramos.com.br/projetos) | [Queimando o Bacon ↗](https://www.arthur-moreira-ramos.com.br/projetos) |
 
-| Corporate projects delivered | International contracts on Upwork | Working English |
-| :--- | :--- | :--- |
-| **9+** | **3+** | **B2 · Cultura Inglesa** |
+| [![Elementa](assets/projects/elementa.webp)](https://www.playelementa.com) | [![Eleven Labs](assets/projects/elevenlabs.webp)](https://project-eleven-lab.vercel.app/conversational-ai/dashboard) |
+| :--- | :--- |
+| [Elementa ↗](https://www.playelementa.com) | [Eleven Labs ↗](https://project-eleven-lab.vercel.app/conversational-ai/dashboard) |
 
-## Languages & tools
+| [![Dra. Solange](assets/projects/solange.webp)](https://adv-solange-pied.vercel.app/) | [![Portfolio](assets/projects/portfolio.webp)](https://www.arthur-moreira-ramos.com.br/home) |
+| :--- | :--- |
+| [Dra. Solange ↗](https://adv-solange-pied.vercel.app/) | [Portfolio ↗](https://www.arthur-moreira-ramos.com.br/home) |
 
-<img src="./assets/react.svg" width="40" height="40" alt="React" title="React"> &nbsp; <img src="./assets/nextjs.svg" width="40" height="40" alt="Next.js" title="Next.js"> &nbsp; <img src="./assets/typescript.svg" width="40" height="40" alt="TypeScript" title="TypeScript"> &nbsp; <img src="./assets/figma.svg" width="40" height="40" alt="Figma" title="Figma"> &nbsp; <img src="./assets/nodejs.svg" width="40" height="40" alt="Node.js" title="Node.js"> &nbsp; <img src="./assets/postgresql.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL"> &nbsp; <img src="./assets/firebase.svg" width="40" height="40" alt="Firebase" title="Firebase"> &nbsp; <img src="./assets/git.svg" width="40" height="40" alt="Git" title="Git">
+## Stack
 
-React · Next.js · TypeScript · Figma · Node.js · PostgreSQL · Firebase · Git
+**Frontend & design**
 
-## From the workbench
+<img src="assets/stack/SiReact.svg" height="34" alt="React.js"> <img src="assets/stack/SiNextdotjs.svg" height="34" alt="Next.js"> <img src="assets/stack/SiTypescript.svg" height="34" alt="TypeScript"> <img src="assets/stack/SiJavascript.svg" height="34" alt="JavaScript"> <img src="assets/stack/SiHtml5.svg" height="34" alt="HTML5"> <img src="assets/stack/SiCss3.svg" height="34" alt="CSS3"> <img src="assets/stack/SiStyledcomponents.svg" height="34" alt="styled-components"> <img src="assets/stack/SiTailwindcss.svg" height="34" alt="Tailwind"> <img src="assets/stack/SiWebpack.svg" height="34" alt="Webpack"> <img src="assets/stack/SiFigma.svg" height="34" alt="Figma">
 
-**Certeza que Tem · Web Expert**
+**Backend & data**
 
-A technician needs to know which service ticket needs attention, whether a report has been approved and where payment stands. This React and TypeScript portal brings those three parts of the job together. [Explore the portfolio](https://www.arthur-moreira-ramos.com.br/home)
+<img src="assets/stack/SiNodedotjs.svg" height="34" alt="Node.js"> <img src="assets/stack/SiPrisma.svg" height="34" alt="Prisma"> <img src="assets/stack/SiPostgresql.svg" height="34" alt="PostgreSQL"> <img src="assets/stack/SiMysql.svg" height="34" alt="MySQL"> <img src="assets/stack/SiFirebase.svg" height="34" alt="Firebase"> <img src="assets/stack/SiStrapi.svg" height="34" alt="Strapi"> <img src="assets/stack/SiPostman.svg" height="34" alt="Postman">
 
-**Digital marketplace · Private client work**
+**Cloud & delivery**
 
-I designed the buyer journey in Figma and built it through checkout and delivery. Buyers can search for a product, ask the seller a question in a private Firestore conversation, then return to their order history to access what they bought.
+<img src="assets/stack/SiGit.svg" height="34" alt="Git"> <img src="assets/stack/SiGithub.svg" height="34" alt="GitHub"> <img src="assets/stack/SiAmazonaws.svg" height="34" alt="AWS"> <img src="assets/stack/SiVercel.svg" height="34" alt="Vercel"> <img src="assets/stack/SiNetlify.svg" height="34" alt="Netlify"> <img src="assets/stack/SiNpm.svg" height="34" alt="NPM">
 
-**Elementa · Browser game**
+## GitHub
 
-Start with water, fire, earth and air. Drag two elements together and see what you discover. I built a collection you can search on a phone and a guide you can browse in Portuguese, English or Spanish. [Play Elementa](https://www.playelementa.com) · [Open the field guide](https://www.playelementa.com/en/elements)
-
-## Experience
-
-**CodoTech · Software engineering & technical leadership · Joined April 2026**
-
-I helped establish the engineering operation, from client discovery and estimates to architecture and release. My work spans an e-commerce platform with custom freight pricing and two mobile apps built with React Native.
-
-**Mestres da Web · October 2024 – April 2026**
-
-I joined as a front-end intern, moved into a junior role and took on full-stack delivery. I standardized the team's Next.js starter, paired with interns and shipped features across customer, seller and admin interfaces. By the end of my time there, I was also handling PostgreSQL migrations, Linux deployments and app store releases.
-
-## GitHub activity
-
-![Public repositories by primary language and creation year](./assets/activity.svg)
-
-Both charts use the same weekly snapshot of my public, non-fork repositories. [Explore the repositories](https://github.com/arthurramoz?tab=repositories).
-
-<details>
-<summary><strong>Inside my toolkit</strong></summary>
-
-- **Interfaces** — Figma, React, Next.js, TypeScript, React Native and styled-components.
-- **Data** — React Query for asynchronous state, Firestore for live conversations, REST APIs for product and order flows.
-- **Delivery** — Node.js, Strapi, PostgreSQL, Git and DigitalOcean.
-- **Education** — Systems Analysis and Development at FATEC.
-
-</details>
-
-<details>
-<summary><kbd>0x48 + 0x32 + 0x4F</kbd> · Decode a field note</summary>
-
-Read each byte as an ASCII character and you get **H2O**. Water is one of your starting elements in Elementa. Try dropping fire onto it.
-
-[Take it to the board →](https://www.playelementa.com)
-
-</details>
+[![Public repository activity](assets/activity.svg)](https://github.com/arthurramoz?tab=repositories)
