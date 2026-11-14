@@ -16,7 +16,7 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/activity.svg assets/dashboard-montserrat-bold.svg
+          git add assets/activity.svg assets/dashboard-stacks-last.svg
           if ! git diff --cached --quiet; then
             git commit -m "Refresh public repository charts"
             git push

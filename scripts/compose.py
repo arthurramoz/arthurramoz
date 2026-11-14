@@ -11,25 +11,25 @@ s = s.replace('font-size="80"', 'font-size="54"')
 s = s.replace('viewBox="0 0 960 951"', 'viewBox="0 0 960 2260"')
 s = s.replace('width="960" height="951"', 'width="960" height="2260"')
 font = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
-parts = [f'<g font-family="{font}"><text x="44" y="1007" font-size="27" font-weight="650" fill="#f0f0f2">Projects</text>']
+parts = [f'<g font-family="{font}"><text x="44" y="527" font-size="27" font-weight="650" fill="#f0f0f2">Projects</text>']
 projects = [("cqt", "Certeza que Tem"), ("qb", "Queimando o Bacon"),
             ("elementa", "Elementa"), ("elevenlabs", "Eleven Labs"),
             ("solange", "Dra. Solange"), ("portfolio", "Portfolio")]
 for i, (key, title) in enumerate(projects):
     x = 44 + (i % 2) * 450
-    y = 1035 + (i // 2) * 295
+    y = 555 + (i // 2) * 295
     data = base64.b64encode((assets / "projects" / f"{key}.png").read_bytes()).decode()
     parts.extend([
         f'<defs><clipPath id="project-{key}"><rect x="{x}" y="{y}" width="422" height="237" rx="18"/></clipPath></defs>',
         f'<image x="{x}" y="{y}" width="422" height="237" preserveAspectRatio="xMidYMid slice" clip-path="url(#project-{key})" href="data:image/png;base64,{data}"/>',
         f'<text x="{x}" y="{y+267}" font-size="21" font-weight="600" fill="#f0f0f2">{escape(title)}</text>',
     ])
-parts.append('<text x="44" y="1980" font-size="27" font-weight="650" fill="#f0f0f2">GitHub</text></g>')
+parts.append('<text x="44" y="1500" font-size="27" font-weight="650" fill="#f0f0f2">GitHub</text></g>')
 chart = (assets / "activity.svg").read_text(encoding="utf8")
-chart = chart.replace('<svg ', '<svg x="44" y="2010" width="872" height="230" class="chart" ', 1)
+chart = chart.replace('<svg ', '<svg x="44" y="1530" width="872" height="230" class="chart" ', 1)
 chart = chart.replace('text{', '.chart text{').replace('.bar{', '.chart .bar{')
 parts.append(chart)
-(assets / "dashboard-montserrat-bold.svg").write_text(s[:-6] + "".join(parts) + "</svg>", encoding="utf8")
+(assets / "dashboard-stacks-last.svg").write_text(s[:-6] + "".join(parts) + "</svg>", encoding="utf8")
 
 # Convert text to Montserrat outlines so the artwork renders identically on GitHub.
 import xml.etree.ElementTree as ET
@@ -37,7 +37,20 @@ from fontTools.ttLib import TTFont
 from fontTools.varLib.instancer import instantiateVariableFont
 from fontTools.pens.svgPathPen import SVGPathPen
 ns = "{http://www.w3.org/2000/svg}"
-tree = ET.fromstring((assets / "dashboard-montserrat-bold.svg").read_text(encoding="utf8"))
+tree = ET.fromstring((assets / "dashboard-stacks-last.svg").read_text(encoding="utf8"))
+# Move the technology groups below projects and GitHub activity.
+stack_group = ET.Element(ns + "g", {"transform": "translate(0 1260)"})
+for child in list(tree):
+    is_heading = child.tag == ns + "g" and any(
+        item.tag == ns + "text" and item.text in
+        ("Frontend & design", "Backend & data", "Cloud & delivery")
+        for item in child
+    )
+    is_divider = child.tag == ns + "path" and child.get("d") == "M44 514H916"
+    if is_heading or is_divider:
+        tree.remove(child)
+        stack_group.append(child)
+tree.append(stack_group)
 fonts = {}
 def outline(parent, inherited=None):
     inherited = dict(inherited or {})
@@ -74,4 +87,4 @@ def outline(parent, inherited=None):
         parent.remove(child)
 outline(tree)
 ET.register_namespace("", "http://www.w3.org/2000/svg")
-ET.ElementTree(tree).write(assets / "dashboard-montserrat-bold.svg", encoding="utf-8")
+ET.ElementTree(tree).write(assets / "dashboard-stacks-last.svg", encoding="utf-8")
