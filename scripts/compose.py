@@ -90,3 +90,22 @@ def outline(parent, inherited=None):
 outline(tree)
 ET.register_namespace("", "http://www.w3.org/2000/svg")
 ET.ElementTree(tree).write(assets / "dashboard-refined.svg", encoding="utf-8")
+
+# README images need separate HTML anchors for independent click targets.
+import copy
+slices = assets / "dashboard"
+slices.mkdir(exist_ok=True)
+def crop(name, x, y, width, height):
+    image = copy.deepcopy(tree)
+    image.set("viewBox", f"{x} {y} {width} {height}")
+    image.set("width", str(width))
+    image.set("height", str(height))
+    ET.ElementTree(image).write(slices / f"{name}.svg", encoding="utf-8")
+crop("header", 0, 0, 960, 305)
+for name, x in [("portfolio",44), ("linkedin",200), ("email",350)]:
+    crop(name, x, 315, 138, 38)
+crop("metrics", 0, 370, 960, 130)
+crop("projects-heading", 0, 500, 960, 45)
+for i, (key, _) in enumerate(projects):
+    crop("project-" + key, 44 + (i % 2)*450, 555 + (i//2)*295, 422, 280)
+crop("activity-stack", 0, 1460, 960, 800)
