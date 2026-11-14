@@ -97,6 +97,15 @@ slices = assets / "dashboard"
 slices.mkdir(exist_ok=True)
 def crop(name, x, y, width, height):
     image = copy.deepcopy(tree)
+    # Discard raster covers outside this crop to keep each asset small.
+    for parent in image.iter():
+        for child in list(parent):
+            if child.tag == ns + "image" and child.get("clip-path"):
+                left, top = float(child.get("x",0)), float(child.get("y",0))
+                right = left + float(child.get("width",0))
+                bottom = top + float(child.get("height",0))
+                if right <= x or left >= x+width or bottom <= y or top >= y+height:
+                    parent.remove(child)
     image.set("viewBox", f"{x} {y} {width} {height}")
     image.set("width", str(width))
     image.set("height", str(height))
