@@ -7,7 +7,7 @@ from xml.sax.saxutils import escape
 root = Path(__file__).resolve().parents[1]
 assets = root / "assets"
 s = (assets / "profile-showcase-v2.svg").read_text(encoding="utf8")
-s = s.replace('font-size="80"', 'font-size="69"')
+s = s.replace('font-size="80"', 'font-size="58"')
 s = s.replace('viewBox="0 0 960 951"', 'viewBox="0 0 960 2260"')
 s = s.replace('width="960" height="951"', 'width="960" height="2260"')
 font = "-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif"
@@ -48,7 +48,8 @@ def outline(parent, inherited=None):
             continue
         attrs = dict(inherited)
         attrs.update(child.attrib)
-        weight = int(attrs.get("font-weight", "400"))
+        text_content = "".join(child.itertext())
+        weight = 750 if text_content == "Arthur Ramos" else min(800, int(attrs.get("font-weight", "400")) + 150)
         if weight not in fonts:
             fonts[weight] = instantiateVariableFont(TTFont(assets / "Montserrat.ttf"), {"wght": weight})
         font = fonts[weight]
