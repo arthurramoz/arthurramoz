@@ -2,17 +2,11 @@
 
 ## Selected work
 
-| [![Certeza que Tem](assets/projects/cqt.webp)](https://www.arthur-moreira-ramos.com.br/projetos) | [![Queimando o Bacon](assets/projects/qb.webp)](https://www.arthur-moreira-ramos.com.br/projetos) |
-| :--- | :--- |
-| [Certeza que Tem ↗](https://www.arthur-moreira-ramos.com.br/projetos) | [Queimando o Bacon ↗](https://www.arthur-moreira-ramos.com.br/projetos) |
+<p align="center"><a href="https://www.arthur-moreira-ramos.com.br/projetos"><img src="assets/projects/cqt.webp" width="47%" alt="Certeza que Tem"></a>　<a href="https://www.arthur-moreira-ramos.com.br/projetos"><img src="assets/projects/qb.webp" width="47%" alt="Queimando o Bacon"></a></p>
 
-| [![Elementa](assets/projects/elementa.webp)](https://www.playelementa.com) | [![Eleven Labs](assets/projects/elevenlabs.webp)](https://project-eleven-lab.vercel.app/conversational-ai/dashboard) |
-| :--- | :--- |
-| [Elementa ↗](https://www.playelementa.com) | [Eleven Labs ↗](https://project-eleven-lab.vercel.app/conversational-ai/dashboard) |
+<p align="center"><a href="https://www.playelementa.com"><img src="assets/projects/elementa.webp" width="47%" alt="Elementa"></a>　<a href="https://project-eleven-lab.vercel.app/conversational-ai/dashboard"><img src="assets/projects/elevenlabs.webp" width="47%" alt="Eleven Labs"></a></p>
 
-| [![Dra. Solange](assets/projects/solange.webp)](https://adv-solange-pied.vercel.app/) | [![Portfolio](assets/projects/portfolio.webp)](https://www.arthur-moreira-ramos.com.br/home) |
-| :--- | :--- |
-| [Dra. Solange ↗](https://adv-solange-pied.vercel.app/) | [Portfolio ↗](https://www.arthur-moreira-ramos.com.br/home) |
+<p align="center"><a href="https://adv-solange-pied.vercel.app/"><img src="assets/projects/solange.webp" width="47%" alt="Dra. Solange"></a>　<a href="https://www.arthur-moreira-ramos.com.br/home"><img src="assets/projects/portfolio.webp" width="47%" alt="Portfolio"></a></p>
 
 ## Stack
 
