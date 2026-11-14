@@ -1,72 +1,56 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00ff00;0066ff;00ff00;00bfff&center=true&vCenter=true&width=600&lines=Arthur+Moreira+Ramos;Front-End+Engineer;Next.js+%7C+TypeScript;Building+Scalable+UIs" alt="Typing SVG" />
+![Arthur Ramos — software engineer for web and mobile, based in Mogi das Cruzes, Brazil.](./assets/contours.svg)
 
-  <p align="center">
-    <strong>Engineering high-performance, pixel-perfect web applications for a global scale.</strong>
-  </p>
+# Arthur Moreira Ramos
 
-  <div align="center">
-    <a href="https://www.linkedin.com/in/arthur-moreira-ramos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://project-eleven-lab.vercel.app/home" target="_blank"><img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-    <a href="mailto:arthurmoreiraramos550sp@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  </div>
-</div>
+I build the screens people use to run a business. At **CodoTech**, that can mean sitting down with a client to understand how they price a delivery, then carrying that rule through the API, the checkout screen and the mobile app.
 
-<br/>
-<hr/>
-<br/>
+[Portfolio & case studies](https://www.arthur-moreira-ramos.com.br/home) · [LinkedIn](https://www.linkedin.com/in/arthur-moreira-ramos) · [Email me](mailto:arthurmoreiraramos550sp@gmail.com)
 
-## <img src="https://api.iconify.design/lucide/zap.svg?color=%2300BFFF" width="24" align="absmiddle" /> Executive Summary
+## My work at a glance
 
-> Front-end Developer transitioning to mid-level, specialized in **React ecosystem (Next.js 14, TypeScript)** and **Clean Architecture**. Proven track record in delivering scalable enterprise dashboards, complex authentication systems, and responsive mobile-first solutions. Strong focus on bridging the gap between sophisticated UI/UX design (Figma) and high-performance engineering.
+| Corporate projects delivered | International contracts on Upwork | Working English |
+| :--- | :--- | :--- |
+| **9+** | **3+** | **B2 · Cultura Inglesa** |
 
-* <img src="https://api.iconify.design/lucide/target.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Impact Metrics:** 9+ Corporate Projects delivered, 3+ International Contracts (Upwork), consistent high-Lighthouse scores.
-* <img src="https://api.iconify.design/lucide/brain.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Core Competencies:** Component-Driven Development, RESTful APIs, Global State Management, Payment Gateways, and **AI-Assisted Engineering (Google Antigravity / Agentic Workflows)**.
-* <img src="https://api.iconify.design/lucide/globe.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Languages:** English (Professional Working Proficiency - B2/C1).
+## From the workbench
 
-<br/>
-<hr/>
-<br/>
+**Certeza que Tem · Web Expert**
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2300BFFF" width="24" align="absmiddle" /> Tech Stack & Tooling
+A technician needs to know which service ticket needs attention, whether a report has been approved and where payment stands. This React and TypeScript portal brings those three parts of the job together. [Explore the portfolio](https://www.arthur-moreira-ramos.com.br/home)
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center"><b><img src="https://api.iconify.design/lucide/terminal.svg?color=%2300BFFF" width="18" align="absmiddle" /> Core</b></td>
-      <td align="center"><b><img src="https://api.iconify.design/lucide/palette.svg?color=%2300BFFF" width="18" align="absmiddle" /> Styling & UI</b></td>
-      <td align="center"><b><img src="https://api.iconify.design/lucide/database.svg?color=%2300BFFF" width="18" align="absmiddle" /> Backend & DB</b></td>
-      <td align="center"><b><img src="https://api.iconify.design/lucide/settings.svg?color=%2300BFFF" width="18" align="absmiddle" /> Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,css,html&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,firebase&theme=dark" /></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode&theme=dark" /></td>
-    </tr>
-  </table>
-</div>
+**Digital marketplace · Private client work**
 
-<br/>
-<hr/>
-<br/>
+I designed the buyer journey in Figma and built it through checkout and delivery. Buyers can search for a product, ask the seller a question in a private Firestore conversation, then return to their order history to access what they bought.
 
-## <img src="https://api.iconify.design/lucide/rocket.svg?color=%2300BFFF" width="24" align="absmiddle" /> Featured Engineering Projects
+**Elementa · Browser game**
 
-### 1. Enterprise Digital Marketplace <img src="https://img.shields.io/badge/Private_Project-FF4B4B?style=flat-square&logo=github&logoColor=white" alt="Private Project" align="center" />
+Start with water, fire, earth and air. Drag two elements together and see what you discover. I built a collection you can search on a phone and a guide you can browse in Portuguese, English or Spanish. [Play Elementa](https://www.playelementa.com) · [Open the field guide](https://www.playelementa.com/en/elements)
 
-> **End-to-end ownership** of a comprehensive, full-stack e-commerce ecosystem for digital products (similar scope to Amazon Digital), serving as the sole engineer from **UI/UX design (Figma)** to final **architecture and integration**.
+## Experience
 
-* <img src="https://api.iconify.design/lucide/cpu.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Engineering Scope:** Translated complex business requirements into high-performance engineering, implementing advanced product search, dynamic cart management, secure checkout flows, user ratings, and comment systems.
-* <img src="https://api.iconify.design/lucide/zap.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Real-time Architecture:** Architected and integrated a secure, scalable 1-to-1 messaging system between buyers and sellers using **Firebase Firestore**, ensuring immediate delivery and synchronization.
-* <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%2300BFFF" width="16" align="absmiddle" /> **Product Lifecycle:** Developed complex frontend logic for order history, digital asset access/tracking, and interactive user dashboards.
+**CodoTech · Software engineering & technical leadership · Joined April 2026**
 
-<br/>
-<hr/>
-<br/>
+I helped establish the engineering operation, from client discovery and estimates to architecture and release. My work spans an e-commerce platform with custom freight pricing and two mobile apps built with React Native.
 
-## <img src="https://api.iconify.design/lucide/line-chart.svg?color=%2300BFFF" width="24" align="absmiddle" /> GitHub Analytics & Productivity
+**Mestres da Web · October 2024 – April 2026**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthurramoz&bg_color=000000&color=00BFFF&line=00BFFF&point=FFFFFF&area=true&hide_border=true" alt="Arthur's Contribution Graph" />
-</div>
+I joined as a front-end intern, moved into a junior role and took on full-stack delivery. I standardized the team's Next.js starter, paired with interns and shipped features across customer, seller and admin interfaces. By the end of my time there, I was also handling PostgreSQL migrations, Linux deployments and app store releases.
+
+<details>
+<summary><strong>Inside my toolkit</strong></summary>
+
+- **Interfaces** — Figma, React, Next.js, TypeScript, React Native and styled-components.
+- **Data** — React Query for asynchronous state, Firestore for live conversations, REST APIs for product and order flows.
+- **Delivery** — Node.js, Strapi, PostgreSQL, Git and DigitalOcean.
+- **Education** — Systems Analysis and Development at FATEC.
+
+</details>
+
+<details>
+<summary><kbd>0x48 + 0x32 + 0x4F</kbd> · Decode a field note</summary>
+
+Read each byte as an ASCII character and you get **H2O**. Water is one of your starting elements in Elementa. Try dropping fire onto it.
+
+[Take it to the board →](https://www.playelementa.com)
+
+</details>
